@@ -1,0 +1,8 @@
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\bin\Debug\ProductsParser.exe.config
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\bin\Debug\ProductsParser.exe
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\bin\Debug\ProductsParser.pdb
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\bin\Debug\Newtonsoft.Json.dll
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\bin\Debug\Newtonsoft.Json.xml
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\obj\Debug\ProductsParser.csprojResolveAssemblyReference.cache
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\obj\Debug\ProductsParser.exe
+c:\users\tkk10\documents\visual studio 2017\Projects\ProductsParser\ProductsParser\obj\Debug\ProductsParser.pdb
